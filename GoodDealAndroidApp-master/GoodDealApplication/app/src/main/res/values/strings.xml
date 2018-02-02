@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Good Deal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="delete_history">Delete  Entire  History</string>
+    <string name="delete_wishList">Delete  Entire  WishList</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_base_app">BaseApp</string>
+</resources>
